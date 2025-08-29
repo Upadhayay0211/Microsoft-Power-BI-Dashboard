@@ -24,7 +24,7 @@ This Power BI dashboard provides a comprehensive analysis of employee attrition 
 ## 🛠 Tools & Technologies
 - **Power BI**: Dashboard design and data visualization
 - **Excel**: Data preprocessing and formatting
-- **SQL (optional)**: For data cleaning and transformation (if applicable)
+- **SQL**: For data cleaning and transformation
 
 ## 📁 Dataset
 The dataset includes anonymized employee records with fields such as:
