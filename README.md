@@ -46,7 +46,7 @@ Created by **Abhishek Upadhayay**
 📧 abhishek.email@example.com  
 
 Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
-Example: ![Dashboard Preview](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
+
 
 ---
 
