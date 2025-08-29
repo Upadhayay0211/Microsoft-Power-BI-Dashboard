@@ -45,6 +45,8 @@ The dataset includes anonymized employee records with fields such as:
 Created by **Abhishek Upadhayay**  
 📧 abhishek.email@example.com  
 
-https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png
+Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
+Example: ![Dashboard Preview](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
+
 ---
 
